@@ -1,6 +1,5 @@
 # Personalized-Medicine-Redefining-Cancer-Treatment
 Predict the effect of Genetic Variants to enable Personalized Medicine
-
 ## About the Data
 
 <h2 style="user-select: auto;"> Overview </h2>
@@ -649,7 +648,7 @@ plt.show()
     
 
 
-![png](output_35_1.png)
+![alt text](https://github.com/deenukhan/Personalized-Medicine-Redefining-Cancer-Treatment/blob/main/images/output_35_1.png)
 
 
 
@@ -694,7 +693,7 @@ plot_precision_recall_heatmap(vectorized_cv, y_cv, clf)
     
 
 
-![png](output_37_1.png)
+![png](https://github.com/deenukhan/Personalized-Medicine-Redefining-Cancer-Treatment/blob/main/images/output_37_1.png)
 
 
     
